@@ -1,11 +1,13 @@
-import React from 'react'
+import React from 'react';
+import logo from '../images/logo.png'
 
 const Header = () => {
   return (
-    <div>
-      
-    </div>
+    <header className='header'>
+      <img src={logo} alt='logo_pokedex'/>
+      <h1>PokeDEX_</h1>
+    </header>
   )
 }
 
-export default Header
+export default Header;

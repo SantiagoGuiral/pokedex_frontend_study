@@ -62,7 +62,6 @@ img {
 .pokemon-image img {
     width: 100%;
     height: auto;
-    padding-right: 20px;
     border-radius: 10%;
 }
 
@@ -117,7 +116,7 @@ img {
         align-items: center;
     }
 
-    .container, .pokemon-info, .pokemon-title, .pokemon-image, .pokemon-info {
+    .container, .pokemon-info, .pokemon-title, .pokemon-image {
         width: 90%;
     }
 
