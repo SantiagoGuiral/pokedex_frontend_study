@@ -6,7 +6,7 @@ import pikachu from '../images/pikachu.png';
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className='footer'>
         <h3>OTHERS:</h3>
         <section className='pokemon-link'>
             <a className='pokemon-image-link' href='/'><img src={articuno} alt='pokemon.png'/></a>
