@@ -106,6 +106,10 @@ img {
     border-radius: 15%;
 }
 
+a.pokemon-image-link:hover {
+    border: 1px solid #000;
+}
+
 @media (max-width: 760px){
     .header {
         justify-content: center;
