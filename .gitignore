@@ -5,9 +5,6 @@ with-react/node_modules
 with-react/.pnp
 with-react/.pnp.js
 
-# testing event listener
-vanilla/main.js
-
 # testing
 with-react//coverage
 
